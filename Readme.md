@@ -1,3 +1,8 @@
+ <div align="center">
+<img src="https://holopin.io/api/user/board?user=arpit" alt="Holopin" />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Arpit Chugh</h1>
 <h3 align="center">Living my life in code from last 3 years, working with React, TypeScript, C++, python</h3>
 
