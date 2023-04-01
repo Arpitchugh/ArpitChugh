@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **any web technologies**
 
-- 👨‍💻 All of my projects are available at [https://arpitchugh.live/](https://arpitchugh.live/)
-
 - 💬 Ask me about **React, JavaScript, TypeScript, C++**
 
 - 📫 How to reach me **arpiitchugh@gmail.com**
