@@ -7,7 +7,7 @@
 <h3 align="center">Living my life in code from last 3 years, working with React, TypeScript, C++, python</h3>
 
 
-- 🔭 I’m currently working on [ShriProperty](https://shriproperty.com/)
+- 🔭 I’m currently working on [Leafround](https://leafround.com/)
 
 - 👯 I’m looking to collaborate on **any web technologies**
 
