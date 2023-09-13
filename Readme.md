@@ -4,14 +4,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Arpit Chugh</h1>
-<h3 align="center">Living my life in code from last 3 years, working with React, TypeScript, C++, python</h3>
+<h3 align="center">Living my life in code from last 3 years, working with React, JavaScript, C++, python</h3>
 
 
 - 🔭 I’m currently working at [Leafround](https://leafround.com/)
 
 - 👯 I’m looking to collaborate on **any web technologies**
 
-- 💬 Ask me about **React, JavaScript, TypeScript, C++**
+- 💬 Ask me about **React, JavaScript, Python, C++**
 
 - 📫 How to reach me **arpiitchugh@gmail.com**
 
