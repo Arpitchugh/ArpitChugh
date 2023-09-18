@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [Leafround](https://leafround.com/)
 
-- 👯 I’m looking to collaborate on **any web technologies**
+- 👯 Open to collaboration on **web technologies**
 
 - 💬 Ask me about **React, JavaScript, Python, C++**
 
