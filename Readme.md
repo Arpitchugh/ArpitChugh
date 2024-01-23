@@ -7,7 +7,7 @@
 <h3 align="center">Living my life in code from last 3 years, working with React, JavaScript, C++, python</h3>
 
 
-- 🔭 I’m currently working at [Leafround](https://leafround.com/)
+- 🔭 I’m currently working at [Tap Invest](https://leafround.com/)
 
 - 👯 Open to collaboration on **web technologies**
 
