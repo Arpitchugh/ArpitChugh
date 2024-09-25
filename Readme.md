@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Arpit Chugh</h1>
-<h3 align="center">Living my life in code from last 3 years, working with React, JavaScript, C++, python</h3>
+<h3 align="center">Living my life in code from last 3 years, working in web mostly frontend</h3>
 
 
 - 🔭 I’m currently working at [Tap Invest](https://leafround.com/)
